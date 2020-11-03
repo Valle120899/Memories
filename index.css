@@ -8,7 +8,7 @@ body{
 
 h1{
     text-align: center;
-    background-color: darkkhaki;
+    background-color: lightgreen;
     margin: 0 450px 0 450px;
 }
 h4{
@@ -24,7 +24,7 @@ h4{
     display: inline;
     padding: 10px;
     font-size: 20px;
-    background-color: darkkhaki;
+    background-color: lightgreen;
 }
 
 .list li:hover{
@@ -40,7 +40,7 @@ section{
 section h4{
     text-align: center;
     font-size: 20px;
-    background-color: tomato;
+    background-color: orange;
 }
 .container{
     display: flex;
